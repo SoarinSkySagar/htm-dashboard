@@ -1,7 +1,6 @@
 import React from 'react'
 import {BsFillFileCheckFill} from 'react-icons/bs'
 import {FiLogOut} from 'react-icons/fi'
-import './misc.css'
 
 export default function Dashboard() {
   return (
